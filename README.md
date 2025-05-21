@@ -2,6 +2,10 @@
 
 # DA6401_Assignment3: Character-Level Transliteration with Seq2Seq Models
 ==========================================================================
+
+GitHub Link:https://github.com/D4deben/DA6401_Assignment3
+Wandb Link: https://wandb.ai/cs24m016-indian-institute-of-technology-madras/DL_A3/reports/Assignment-3--VmlldzoxMjM4NDA5Mg?accessToken=tx7pmr6w4wqhwwxsg5l87ql2aa4djw1xvps9gsycly4vlitig9vakzi0f8e666hp
+
 This repository contains the implementation and experimental results for an academic assignment (DA6401) focused on building and evaluating Sequence-to-Sequence (Seq2Seq) models for character-level transliteration. The project explores two distinct Seq2Seq architectures: a vanilla (non-attention) model and an enhanced attention-based model, comparing their performance in converting Latin script words to Devanagari script.
 
 
